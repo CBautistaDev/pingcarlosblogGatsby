@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
-    siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    title: `Carlos Blog`,
+    siteUrl: `PingCarlos.tech`,
+    description: `Blog Post about Linux, Cisco , VMware,, AWS and Python etc...`,
     components: {
       appbar: {
         position: "sticky",
@@ -18,7 +18,7 @@ module.exports = {
         ]
       },
       footer: {
-        copyright: "yoursite.com",
+        copyright: "PingCarlos.tech",
         columns: [
           {
             heading: "Column 1",
@@ -116,7 +116,7 @@ module.exports = {
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
-        icon: `src/images/favicon.png`
+        icon: ``
       }
     }
   ]
