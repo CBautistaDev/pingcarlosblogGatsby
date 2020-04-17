@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
     title: `Carlos Blog`,
-    siteUrl: `PingCarlos.tech`,
+    siteUrl: 'https://pingcarlos.tech',
     description: `Blog Post about Linux, Cisco , VMware,, AWS and Python etc...`,
     components: {
       appbar: {
         position: "sticky",
         links: [
           {
-            title: "Doc 1",
+            title: "Portfolio",
             url: "/doc1"
           },
           {
-            title: "Doc 2",
+            title: "About",
             url: "/doc2"
           }
         ]
@@ -116,7 +116,7 @@ module.exports = {
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
-        icon: ``
+        icon: `src/images/favicon.png`
       }
     }
   ]
