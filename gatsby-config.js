@@ -76,7 +76,7 @@ module.exports = {
     },
     templates: {
       home: {
-        totalPosts: 3,
+        totalPosts: 6,
         template: "home"
       },
       pages: {

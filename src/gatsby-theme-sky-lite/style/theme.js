@@ -6,12 +6,12 @@ export default createMuiTheme({
       main: "#525252"
     },
     secondary: {
-      main: "#6902bf"
+      main: "#525252"
     },
     type: "light",
     text: {
-      primary: "#101012",
-      secondary: "#545456"
+      primary: "#525252",
+      secondary: "#525252"
     },
     error: {
       main: "#d32f2f"
