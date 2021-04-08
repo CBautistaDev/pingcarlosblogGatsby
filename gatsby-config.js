@@ -104,7 +104,7 @@ module.exports = {
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
-        icon: `src/images/favicon.png`
+        icon: ``
       }
     }
   ]
