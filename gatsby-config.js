@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Carlos Blog`,
+    title: `Carlos The Unknown Cloud Guy`,
     siteUrl: 'https://pingcarlos.tech',
-    description: `Blog Post about Linux, Cisco , VMware,, AWS and Python etc...`,
+    description: `Blog Post about Linux, AWS, Python, and CI/CD`,
     components: {
       appbar: {
         position: "sticky",
@@ -21,53 +21,41 @@ module.exports = {
         copyright: "PingCarlos.tech",
         columns: [
           {
-            heading: "Column 1",
+            heading: "Social Media",
             links: [
               {
-                title: "Link 1",
-                url: "#"
+                title: "Linked In",
+                url: "https://www.linkedin.com/in/carlos-bautista/"
               },
               {
-                title: "Link 2",
-                url: "#"
-              },
+                title: "Github",
+                url: "https://github.com/charlix216?tab=repositories"
+              }
+            ]
+          },
+          {
+            heading: "Email",
+            links: [
               {
-                title: "Link 3",
+                title: "Avaiable upon request",
                 url: "#"
               }
             ]
           },
           {
-            heading: "Column 2",
+            heading: "Github Projects",
             links: [
               {
-                title: "Link A",
-                url: "#"
+                title: "Teams Python",
+                url: "https://github.com/charlix216/PythonTeamsBot"
               },
               {
-                title: "Link B",
-                url: "#"
+                title: "Python Monitoring",
+                url: "https://github.com/charlix216/MonitorPythonScript"
               },
               {
-                title: "Link C",
-                url: "#"
-              }
-            ]
-          },
-          {
-            heading: "Column 3",
-            links: [
-              {
-                title: "Link x",
-                url: "#"
-              },
-              {
-                title: "Link y",
-                url: "#"
-              },
-              {
-                title: "Link z",
-                url: "#"
+                title: "Python Training",
+                url: "charlix216/Python-Labs"
               }
             ]
           }
